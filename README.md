@@ -1,6 +1,6 @@
 # DVM
 Python 2.7 64Bit Windows 7
-IMPORTANT: You need to install Pil Libary and BeautifulSoup Libary, Tkinter Libary
+IMPORTANT: You need to install Pil Libary and BeautifulSoup Libary, Tkinter Libary, and unzip file img.zip <Extract Here> if you use winrar
 
 
 Change img of button at:
